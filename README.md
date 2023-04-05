@@ -6,7 +6,7 @@ ChatGPT usando Python y GTK
 
 
 
-!!ACTUALIZACIÓN!!
+¡¡ACTUALIZACIÓN!!
 
 El proyecto sigue avanzando, si quieres este comprame un cafe en mi patron y te lo mandaré
 
